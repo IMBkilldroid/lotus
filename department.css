@@ -1,0 +1,90 @@
+h1 {
+  text-align: center;
+  font-family: 'DM Serif Text', serif;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+/* navbar */
+.navbar {
+  padding: 0 0 10rem;
+  background-color: #ec0101;
+}
+
+
+.navbar-brand {
+  font-size: 6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* DEPARTMENTS */
+
+.heading {padding: 40px;
+  font-size: 3rem;
+  background-color: #ec0101;
+  color:white;
+font-family:sans-serif;
+font-weight: bold;
+}
+
+
+
+
+
+/* ROWS */
+.ima {
+  margin: 5rem 0 2rem 0;
+}
+.dep{
+  background-color:#16213e;
+  color: white;
+}
+
+
+
+
+
+/* footer */
+
+.footer-links {
+  color: #007bff;
+}
+
+.lower{
+  background-color:#16213e;
+  color: white;
+  padding: 2% 5%;
+}
+
+.hhe {
+  text-align: left;
+  margin-bottom: 2.3rem;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+}
+
+.social-link {
+  line-height: 1.5rem;
+}
+
+.para {
+  text-align: center;
+}

@@ -1,0 +1,111 @@
+
+h1 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+/* navbar */
+.navbar {
+background-color: #ec0101;
+  padding: 0 0 10rem;
+}
+
+.navbar-brand {
+  font-size: 6rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* FIND US */
+
+.heading {
+
+  font-size: 2.8rem;
+  color: white;
+  background-color: #16213e;
+}
+
+.center {
+  color: white;
+  background-color: #16213e;  text-align: center;
+}
+
+
+.hori {
+  border: dotted #777 6px;
+  border-top: none;
+  width: 7%;
+  margin-top:2.5rem;
+
+}
+.maill {
+
+  color:#007bff ;
+  background-color: #16213e;
+  font-size: 2rem;
+}
+
+.par {
+  color: white;
+  background-color: #16213e;
+
+}
+
+.phone {
+  color: white;
+  background-color: #16213e;
+}
+
+
+
+
+
+
+
+
+
+/* footer */
+.footer-links {
+  color: #007bff;
+}
+
+.lower {
+  color: white;
+  background-color: #16213e;
+  padding: 7% 10%;
+}
+
+.hhe {
+  text-align: left;
+  margin-bottom: 2.3rem;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+}
+
+.text-j1 {
+  margin-top: 20px;
+}
+
+.social-link {
+  line-height: 1.5rem;
+  background-color:  #ec0101;
+}
+
+.para {
+  text-align: center;
+}

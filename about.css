@@ -1,0 +1,119 @@
+body {
+  width: auto;
+
+}
+
+h3 {
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  padding: 40px 0 40px 0;
+  background-color: #2d4059;
+  color: white;
+
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  margin-bottom: 1rem;
+  margin-left: 40px;
+  background-color: #2d4059;
+  color: white;
+  padding: 10px;
+
+}
+p {
+  font-size: 1.2rem;  background-color: #2d4059;
+    color: white;
+padding-left: 30px;
+padding-top: 20px;
+}
+
+li {
+  background-color: #2d4059;
+   color: white;
+  font-size: 1.2rem;
+  padding-left: 20px;
+}
+
+.parap {
+  margin-top: 15px;
+  margin-bottom: 1rem;
+  margin-left: 40px;
+
+}
+
+/* navbar */
+.navbar {
+  padding: 0 0 10rem;
+  background-color: #ec0101;
+}
+
+
+.navbar-brand {
+  font-size: 6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+    background-color: #ec0101;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+
+
+/* ABOUT US */
+
+.para {
+  padding: 50px;
+  text-align: center;
+  background-color: #ec0101;
+}
+
+.low {
+  margin-left: 15px;
+}
+
+.footer-links {
+  color: #007bff;
+}
+
+
+/* HEALTH PLANS */
+
+.health {
+  margin-top: 30px;
+}
+
+
+/* footer */
+
+
+.lower {
+  background-color: #2d4059;
+   color: white;
+ padding-left: 30px;
+ padding-top: 20px;
+}
+
+.hhe {
+  text-align: left;
+  margin-bottom: 2.3rem;
+}
+
+.text-j1 {
+  margin-top: 20px;
+}
+
+.social-link {
+  line-height: 1.5rem;
+}

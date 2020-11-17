@@ -1,0 +1,117 @@
+
+
+
+
+/* INDEX.html */
+
+
+
+
+body {
+  text-align: center;
+  width: auto;
+}
+
+h1 {
+
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+
+}
+h3 {
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+  margin-top: 50px;
+}
+p {
+  font-size: 1.2rem;
+}
+.pae {
+  font-size: 1.2rem;
+}
+
+
+/* navbar */
+.navbar {
+  padding: 0 0 10rem;
+  background-color: #ec0101;
+}
+
+
+.navbar-brand {
+  font-size: 6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+
+/* top part*/
+.intro {
+  text-align: center;
+  margin: 20px;
+  font-weight: 900;
+  font-family: 'Lobster Two', cursive;
+  font-size: 3.5rem;
+  background-color: #0f3460;
+  color: white;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.row {
+  margin:0;
+  line-height: 2;
+  background-color: #0f3460;
+}
+
+
+/* middle */
+
+.welcome {
+margin: 0;
+  background-color: #0f3460;
+  color: white;
+}
+
+
+/* lower */
+.lower {
+  background-color: #1a1a2e;
+  color: white;
+
+  padding:15px 30px;
+}
+
+.text-j1 {
+  margin-top:0;
+}
+
+.social-link {
+  line-height: 1.8rem;
+  background-color: #ec0101;
+
+}
+.para {
+  padding: 50px;
+  text-align: center;
+}
+.footer-links {
+  color: #007bff;
+}
+.heading-below {
+  margin-bottom: 2.3rem;
+  text-align: left;
+}

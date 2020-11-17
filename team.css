@@ -1,0 +1,104 @@
+h1 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+ul {
+  list-style: none;
+  color: #777;
+  padding: 0;
+  line-height: 2rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+li {
+  font-size: 1.1rem;
+}
+
+
+/* navbar */
+.navbar {
+background-color: #ec0101;
+  padding: 0 0 10rem;
+}
+
+
+.navbar-brand {
+  font-size: 6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* HEADING0 */
+
+
+.heading {
+
+  font-size: 3.5rem;
+    padding: 10px 20px;
+}
+
+
+/* INFO */
+
+.staff-info {
+  color: white;
+  background-color: #16213e;
+  padding: 20px 20px;
+}
+
+.heading {
+  font-size: 3.4rem;
+  color: white;
+  background-color: #16213e;
+}
+.hori {
+  border: dotted  white 8px;
+  border-top: none;
+  width: 15%;
+    background-color: #16213e;
+}
+/* footer */
+
+.footer-links {
+  color: #007bff;
+}
+
+.lower  {
+  background-color: #16213e;
+  color: white;
+}
+
+.hhe {
+  text-align: left;
+  margin-bottom: 2.3rem;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+}
+
+
+.social-link {
+  line-height: 1.5rem;
+    background-color:  #ec0101;
+    padding: 10px;
+}
+
+.para {
+  margin: 50px;
+  text-align: center;
+}
